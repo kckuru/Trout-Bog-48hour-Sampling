@@ -8,7 +8,7 @@
 # --------------------------------------------------
 
 keeley_0828 <- read_csv(
-  "~/Documents/Kuru_Projects/Trout_Bog_EET_general/48_hour_sampling/August/BoPro_48hr_08282025_12pm_JL_SH.csv",
+  "~/Documents/Kuru_Projects/Trout_Bog_EET_general/48_hour_sampling/48hr_sampling_summer25/48hr_sampling_summer25_v2/August/BoPro_48hr_08282025_12pm_JL_SH.csv",
   show_col_types = FALSE
 ) %>%
   select(
